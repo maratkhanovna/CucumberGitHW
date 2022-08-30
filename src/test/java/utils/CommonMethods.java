@@ -40,7 +40,6 @@ public class CommonMethods extends PageInitializer {
 
         //this method is used to initialized all the objects of the pages at the very beginning
         initializePageObjects();
-
     }
 
     public static void closeBrowser(){
